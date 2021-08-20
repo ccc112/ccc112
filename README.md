@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @ccc112
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+diagonal_sudoku  = [
+                    [ 0 , 3 , 0 , 2 , 7 , 0 , 0 , 0 , 0 , 0 ],
+                    [ 0 , 0 , 0 , 0 , , 0 , 0 , 0 , 0 , 0 , 0 ],
+                    [ 8 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 ],
+                    [ 5 , 1 , 0 , 0 , 0 , 0 , 0 , 0 , 8 , 4 ],
+                    [ 4 , 0 , 0 , 5 , 9 , 0 , 0 , 7 , 0 ],
+                    [ 2 , 9 , 0 , 0 , 0 , 0 , 0 , 0 , 1 , 0 ],
+                    [ 0 , 0 , 0 , 0 , 0 , 0 , 0 , 1 , 0 , 5 ],
+                    [ 0 , 0 , 6 , 3 , 0 , 8 , 0 , 0 , 07 ],
+                    [ 0 , 0 , 0 , 0 , , 0 , 0 , 3 , 0 , 0 ]
+                ]
 
-<!---
-ccc112/ccc112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Solv_sudoku ( input_sudoku = diagonal_sudoku , เส้นทแยงมุม= จริง )
